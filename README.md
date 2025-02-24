@@ -31,13 +31,8 @@
 
 ###
 
+###
 <p align="left">Skills I’ve Picked Up & Am Continuing to Learn</p>
-
-###
-
-<img align="right" height="170" src="https://media-hosting.imagekit.io//b4bdedf631034563/comalcanon-dbhconnor-ezgif.com-crop.gif?Expires=1834973076&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1xtgO64Iv7ji41k4jCtqUU-XqJKqCZbWGSXdifMrNA-KiUHY3e1i0zSiC8QgzDbmkHmfJqZECaaRdSHvB-tvKUFdok74wT29sz~nYkv3UKlZJkoTYThBJXJQHKFGThFfVOqQCZh6Hvt1zl40Emjrr691lPd2bmv2UoSHPS~V05pj0S0B-RVOFtYKv6QpRsKJ4tsNmU52Fl5NDvdHmnx~BKLFDjbidPyTJJPKmbECQDOqcyI4~WxnIQLbYkCv35DybFGZyXsvG5VxqICqdT3IEyaLJy~FOgsSOiBtaecQrZfbkneicoe5K8uGlJ0NiJjgS8Y2EN77wnMHRjdLid6vYw__"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
