@@ -23,7 +23,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pawankumar.vn@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="45" alt="gmail logo"  />
   </a>
-<a href="https://leetcode.com/Pawankumar-vn" target="_blank">
+<a href="https://leetcode.com/Pawankumar-vn" target="_blank" rel="noopener noreferrer" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="63" height="45" alt="LeetCode logo" />
 </a>
 
