@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="170" src="https://media-hosting.imagekit.io//3e58eb3c5ef54449/ezgif-8281b1ebcc927b.gif?Expires=1834906091&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cTJVCn2lrdNzmF6D30t2HU8BbnM6ojzU9n11PYktuDT3ceZmEHVy4~NkVdBiP-Gus8jToxl~RPLWwHD6jTnMB~Rr2mVJIEcFrKr2667dpPmgvyjNNqG9Wow1PgT9ZNv1kROTlrOV0kTi2n94ULX7zt0vF67Z1akzn0jmwVF7AIBFDJoxnHHg6GXY~UpKc4EPSVL68G~Xx~jFY0psiaa7Q0EcD6khMKK46uhPCmYxek44H2NOedCNLuXcFzPilqBaz6MLBYbGvYNLqK6yLHtU2UHLwE~INhhQkhjVfyPUEvoj9Hm3QsHXhaSkOSofoPNnQQBqahVw-2SUFSLGnpoGsg__"  />
+<img align="right" height="170" src="https://media-hosting.imagekit.io//b4bdedf631034563/comalcanon-dbhconnor-ezgif.com-crop.gif?Expires=1834973076&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1xtgO64Iv7ji41k4jCtqUU-XqJKqCZbWGSXdifMrNA-KiUHY3e1i0zSiC8QgzDbmkHmfJqZECaaRdSHvB-tvKUFdok74wT29sz~nYkv3UKlZJkoTYThBJXJQHKFGThFfVOqQCZh6Hvt1zl40Emjrr691lPd2bmv2UoSHPS~V05pj0S0B-RVOFtYKv6QpRsKJ4tsNmU52Fl5NDvdHmnx~BKLFDjbidPyTJJPKmbECQDOqcyI4~WxnIQLbYkCv35DybFGZyXsvG5VxqICqdT3IEyaLJy~FOgsSOiBtaecQrZfbkneicoe5K8uGlJ0NiJjgS8Y2EN77wnMHRjdLid6vYw__"  />
 
 ###
 
